@@ -1,0 +1,35 @@
+img{
+    width:300px;
+}
+i{
+    font-size: 50px;
+    cursor: pointer;
+    
+}
+
+
+#imgUploadBox{
+    display: block;
+    text-align: center;
+}
+#imgSection{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#table{
+visibility: hidden;
+
+
+
+}
+.remove-all{
+    background-color: red;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    display: none;
+    width: 20%;
+    margin: 10px;
+   
+}
